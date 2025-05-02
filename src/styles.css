@@ -167,6 +167,10 @@ button:hover {
     color: var(--text-color);
 }
 
+p:hover {
+    filter: brightness(70%);
+}
+
 .contact-page p::before {
     margin-right: 8px;
 }
